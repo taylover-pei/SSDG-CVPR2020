@@ -1,13 +1,15 @@
-# Single-Side Domain Generalization for Face Anti-Spoofing, CVPR2020
+# SSDG
+The implementation of [**Single-Side Domain Generalization for Face Anti-Spoofing**](https://arxiv.org/abs/2004.14043).
 
+The motivation of the proposed SSDG method:
 <div align=center>
-<img src="https://github.com/taylover-pei/SSDG-CVPR2020/article/motivation.png" width="400" height="296" />
+<img src="https://github.com/taylover-pei/SSDG-CVPR2020/blob/master/article/motivation.png" width="400" height="296" />
 </div>
 
 An overview of the proposed SSDG method:
 
 <div align=center>
-<img src="https://github.com/taylover-pei/SSDG-CVPR2020/article/architecture.png" width="700" height="345" />
+<img src="https://github.com/taylover-pei/SSDG-CVPR2020/blob/master/article/architecture.png" width="700" height="345" />
 </div>
 
 ## Congifuration Environment
@@ -56,14 +58,13 @@ python dg_test.py
 ## Citation
 Please cite our paper if the code is helpful to your research.
 ```
-@InProceedings{Wang_2020_CVPR_SEAM,
+@InProceedings{Jia_2020_CVPR_SSDG,
     author = {Yunpei Jia and Jie Zhang and Shiguang Shan and Xilin Chen},
     title = {Single-Side Domain Generalization for Face Anti-Spoofing},
     booktitle = {Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
     year = {2020}
 }
 ```
-
 
 
 
